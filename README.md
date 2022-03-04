@@ -22,6 +22,4 @@
 ##
 ### Connect:
 - [<img align="left" alt="ramantv | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- <br> 
-   
 [linkedin]: https://www.linkedin.com/in/raman-trikkur
