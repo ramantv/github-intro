@@ -7,7 +7,9 @@
 - Currently working on my OSCP certification and enhancing my Python skills... :book:
 
 ### Connect:
-- LinkedIn: https://www.linkedin.com/in/raman-trikkur
+- [<img align="left" alt="ramantv | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ##### My Motto:
 - <blockquote> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. --Samuel Beckett <br/> </blockquote>
+
+[linkedin]: https://www.linkedin.com/in/raman-trikkur
