@@ -10,6 +10,4 @@
 - LinkedIn: https://www.linkedin.com/in/raman-trikkur
 
 ##### My Motto:
-<blockquote>
-  Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. --Samuel Beckett <br/> 
-</blockquote>
+- <blockquote> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. --Samuel Beckett <br/> </blockquote>
