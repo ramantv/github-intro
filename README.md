@@ -18,8 +18,8 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Connect:
-- [<img align="left" alt="ramantv | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>
+- [<img align="left" alt="ramantv | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br/>
+
 ##### My Motto:
 - <blockquote> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. --Samuel Beckett <br/> </blockquote>
 
