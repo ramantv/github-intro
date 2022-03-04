@@ -6,7 +6,10 @@
 - Favorite Tech: JavaScript, React, Node.js, GraphQL, MongoDB, MySQL2, Java, C/C++, some AWS, Python... :dizzy::monkey::sparkles:🔥
 - Currently working on my OSCP certification and enhancing my Python skills... :book:
 
-### 
+### Connect:
+- [<img align="left" alt="ramantv | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### My Tech:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -18,9 +21,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Connect:
-- [<img align="left" alt="ramantv | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ##### My Motto:
 - <blockquote> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. --Samuel Beckett <br/> </blockquote>
