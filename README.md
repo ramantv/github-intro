@@ -1,6 +1,6 @@
 ## Hi, I'm Raman! 👋
 ###
-**:closed_lock_with_key::beginner: Cybersecurity professional by day and full-stack software developer by night... :bust_in_silhouette: :first_quarter_moon: :japanese_goblin:** 🔥 
+**:closed_lock_with_key::beginner: Cybersecurity professional by day and full-stack software developer by night... :slightly_smiling_face::bust_in_silhouette::first_quarter_moon: :japanese_goblin:** 🔥
 
 - My Day Job: 💻 **Leading Application Security teams. DevSecOps, Security Assessments, Shifting Security left...** :guardsman: :office: :briefcase: 
 - Favorite Tech: JavaScript, React, Node.js, GraphQL, MongoDB, MySQL2, Java, C/C++, some AWS, Python... :dizzy::monkey::sparkles: 
