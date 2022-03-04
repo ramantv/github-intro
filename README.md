@@ -4,7 +4,7 @@
 
 - My Day Job: **Leading Application Security teams. DevSecOps, Security Assessments, Pentesting...** :business_suit_levitating:💻:office::briefcase:
 - Favorite Tech: JavaScript, React, Node.js, GraphQL, MongoDB, MySQL2, Java, C/C++, some AWS, Python... :dizzy::monkey::sparkles:🔥
-- Currently learning Python, and working on my OSCP certification... :book:
+- Currently working on my OSCP certification and enhancing my Python skills... :book:
 
 ### Connect:
 - LinkedIn: https://www.linkedin.com/in/raman-trikkur
