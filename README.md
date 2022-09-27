@@ -17,6 +17,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+##### About Me:
+- <blockquote> https://ramantv.github.io/about-raman <br/> </blockquote>
+
 ##### My Motto:
 - <blockquote> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. --Samuel Beckett <br/> </blockquote>
 ##
