@@ -3,7 +3,7 @@
 **Cybersecurity professional by day and full-stack software developer by night... :slightly_smiling_face::first_quarter_moon::closed_lock_with_key::beginner::japanese_goblin:**
 - My Day Job: **Leading Application Security teams. DevSecOps, Security Assessments, Pentesting...** :business_suit_levitating:💻:office:
 - Favorite Tech: MERN Stack, JavaScript, React, Node.js, GraphQL, MongoDB, MySQL2, Java, C++... :dizzy::monkey::sparkles:🔥
-- Currently working on my OSCP certification and enhancing my Python skills... :book::exploding_head:
+- Currently working on my CCSP and OSCP certifications and enhancing my Python skills... :book::exploding_head:
 
 ### My Tech:
 - ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
